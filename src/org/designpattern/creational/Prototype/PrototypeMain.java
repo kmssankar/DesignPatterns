@@ -11,3 +11,8 @@ public class PrototypeMain {
 	}
 
 }
+
+/*OUTPUT
+This is Car Manufacturer : VOLKSWAGEN
+This is Truck Manufacturer : TOYOTA
+This is Tractor Manufacturer : VOLVO*/

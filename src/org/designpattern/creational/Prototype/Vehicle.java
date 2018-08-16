@@ -24,6 +24,7 @@ public abstract class Vehicle implements Cloneable {
 		try
 		{
 			Clone=super.clone();
+			System.out.println("Cloning !! " + this);
 		}
 		catch(CloneNotSupportedException CE)
 		{
