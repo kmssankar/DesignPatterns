@@ -37,3 +37,9 @@ public class ProxyDesignMain {
 	}
 
 }
+
+/*
+OUTPUT:
+Initializing Expensive obj !! 
+Executing the Excpected Method of expensive obj !
+Executing the Excpected Method of expensive obj !*/

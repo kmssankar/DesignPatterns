@@ -16,7 +16,6 @@ public class DecoratorMain {
 		Vento = new PerformanceAccy(Vento);	
 		System.out.println(" Description : " + Vento.getDescription() + "\n " + " Price       : " + Vento.getPrice());
 	}
-
 }
 
 /*
