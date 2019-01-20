@@ -32,6 +32,7 @@ public class ProxyDesignMain {
 
 	public static void main(String[] args) {
 		ExpensiveObj ExpObj = new ExpensiveObjProxy();
+		System.out.println(" After Creating The Instance !! ");
 		ExpObj.run();
 		ExpObj.run();
 	}

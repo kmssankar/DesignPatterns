@@ -9,7 +9,7 @@ public class ExpensiveObjImpl implements ExpensiveObj {
 	
 	@Override
 	public void run() {
-		System.out.println("Executing the Excpected Method of expensive obj !");
+		System.out.println("Executing the Expected Method of expensive obj !");
 
 	}
 	

@@ -9,6 +9,7 @@ public class ExpensiveObjProxy implements ExpensiveObj {
 		if(object == null)
 		{
 			object = new ExpensiveObjImpl();
+			System.out.println("New Object Created ");
 		}
 		
 		object.run();
